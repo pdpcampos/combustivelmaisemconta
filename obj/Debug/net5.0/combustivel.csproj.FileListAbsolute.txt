@@ -1,0 +1,16 @@
+C:\Users\PEDRO\OneDrive\Área de Trabalho\combustivel\bin\Debug\net5.0\combustivel.exe
+C:\Users\PEDRO\OneDrive\Área de Trabalho\combustivel\bin\Debug\net5.0\combustivel.deps.json
+C:\Users\PEDRO\OneDrive\Área de Trabalho\combustivel\bin\Debug\net5.0\combustivel.runtimeconfig.json
+C:\Users\PEDRO\OneDrive\Área de Trabalho\combustivel\bin\Debug\net5.0\combustivel.runtimeconfig.dev.json
+C:\Users\PEDRO\OneDrive\Área de Trabalho\combustivel\bin\Debug\net5.0\combustivel.dll
+C:\Users\PEDRO\OneDrive\Área de Trabalho\combustivel\bin\Debug\net5.0\ref\combustivel.dll
+C:\Users\PEDRO\OneDrive\Área de Trabalho\combustivel\bin\Debug\net5.0\combustivel.pdb
+C:\Users\PEDRO\OneDrive\Área de Trabalho\combustivel\obj\Debug\net5.0\combustivel.csproj.AssemblyReference.cache
+C:\Users\PEDRO\OneDrive\Área de Trabalho\combustivel\obj\Debug\net5.0\combustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PEDRO\OneDrive\Área de Trabalho\combustivel\obj\Debug\net5.0\combustivel.AssemblyInfoInputs.cache
+C:\Users\PEDRO\OneDrive\Área de Trabalho\combustivel\obj\Debug\net5.0\combustivel.AssemblyInfo.cs
+C:\Users\PEDRO\OneDrive\Área de Trabalho\combustivel\obj\Debug\net5.0\combustivel.csproj.CoreCompileInputs.cache
+C:\Users\PEDRO\OneDrive\Área de Trabalho\combustivel\obj\Debug\net5.0\combustivel.dll
+C:\Users\PEDRO\OneDrive\Área de Trabalho\combustivel\obj\Debug\net5.0\ref\combustivel.dll
+C:\Users\PEDRO\OneDrive\Área de Trabalho\combustivel\obj\Debug\net5.0\combustivel.pdb
+C:\Users\PEDRO\OneDrive\Área de Trabalho\combustivel\obj\Debug\net5.0\combustivel.genruntimeconfig.cache

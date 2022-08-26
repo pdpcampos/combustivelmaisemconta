@@ -26,8 +26,8 @@ namespace Combustivel
 
         public void ExibirDados()
         {
-            Console.WriteLine("Alcool " + Combustivel1);
-            Console.WriteLine("Gasolina " + Combustivel2);
+            Console.WriteLine(" Valor do Alcool " + Combustivel1);
+            Console.WriteLine("Valor da Gasolina " + Combustivel2);
             float total = this.Resultado ();
 
             if (total <= 0.7)
